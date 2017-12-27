@@ -1,3 +1,3 @@
 # CISP360
 
-My homework solutions to CISP 360.
+My homework solutions for CISP 360.
