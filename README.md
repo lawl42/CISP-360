@@ -1,3 +1,3 @@
 # CISP360
 
-My homework solutions for CISP 360 which I took in the Fall 2016 semester.
+My homework solutions for the Folsom Lake Colleg course CISP 360 which I took in the Fall 2016 semester.
